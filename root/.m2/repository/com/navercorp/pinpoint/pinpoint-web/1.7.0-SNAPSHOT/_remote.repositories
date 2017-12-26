@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Fri Dec 22 05:18:43 UTC 2017
+pinpoint-web-1.7.0-SNAPSHOT.pom>=
+pinpoint-web-1.7.0-SNAPSHOT-classes.jar>=
+pinpoint-web-1.7.0-SNAPSHOT.war>=

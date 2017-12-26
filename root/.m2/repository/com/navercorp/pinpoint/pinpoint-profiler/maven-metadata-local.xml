@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.navercorp.pinpoint</groupId>
+  <artifactId>pinpoint-profiler</artifactId>
+  <versioning>
+    <versions>
+      <version>1.7.0-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20171222044108</lastUpdated>
+  </versioning>
+</metadata>
